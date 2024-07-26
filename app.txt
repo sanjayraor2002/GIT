@@ -1,6 +1,4 @@
 welcome to front-end class
-
 hi everyone
-hi everyone
-hi everyone
+first github repository
 
